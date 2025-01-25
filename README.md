@@ -66,12 +66,6 @@ The CNN architecture includes:
 - *Fully Connected Layers:* Classification
 - *Activation Functions:* ReLU and Softmax
 
-### Basic CNN Architecture
-Below is a visual representation of the CNN architecture used in this project:
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Basic CNN Architecture" style="width:80%;">
-</p>
 
 ## Training
 - *Optimizer:* Adam
