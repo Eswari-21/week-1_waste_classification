@@ -4,7 +4,7 @@ To develop a CNN model for classifying images of plastic waste, you'll follow a 
 # CNN Model for Plastic Waste Classification
 
 <h1 align="center">Hi there, I'm Dunnapothula Eswari Naga Durga👋</h1>
-<h3 align="center">Enthusiastic Data Science Student | AI & ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Enthusiastic AI & ML Student | AI & ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/Eswari-Naga-Durga"</a>
