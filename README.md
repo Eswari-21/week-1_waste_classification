@@ -1,10 +1,10 @@
-# week-1_waste_classification
+# Week-1_waste_classification
 To develop a CNN model for classifying images of plastic waste, you'll follow a series of steps, including data collection, model architecture design, training, and evaluation.For the Data Collection step, the goal is to gather and prepare a dataset of images for your CNN model.
 
 # CNN Model for Plastic Waste Classification
 
 <h1 align="center">Hi there, I'm Dunnapothula Eswari Naga Durga👋</h1>
-<h3 align="center">Enthusiastic AI & ML Student | AI & ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Enthusiastic AI & ML Student | Open Source Contributor</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/Eswari-Naga-Durga"</a>
@@ -13,7 +13,7 @@ To develop a CNN model for classifying images of plastic waste, you'll follow a 
 </a>
 </p>
 
----
+
 
 
 ## Overview of CNN
